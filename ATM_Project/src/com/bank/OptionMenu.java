@@ -118,7 +118,8 @@ public class OptionMenu {
 					break;
 				case 5:
 					end = true;
-					default : 
+					
+				default : 
 						System.out.println("\nInvalid Choice.");
 				}
 			}catch(InputMismatchException ex)

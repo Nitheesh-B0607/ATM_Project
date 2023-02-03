@@ -227,7 +227,7 @@ public class Account
 			{
 				try
 				{
-				if (accType.equals("Checking"))
+				if (accType.equals("Checkings"))
 				{
 					System.out.println("Select an account you wish to transfer funds to:  ");
 					System.out.println("1. Savings\n2. Exit\n\nChoice : ");
